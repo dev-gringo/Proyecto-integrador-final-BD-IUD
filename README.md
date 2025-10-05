@@ -37,7 +37,7 @@ La carpeta **`03_Pruebas_Calidad_Datos`** contiene la evidencia del proceso de v
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [URL_DEL_REPOSITORIO]
+    git clone https://github.com/dev-gringo/Proyecto-integrador-final-BD-IUD.git
     ```
 2.  **Implementar la DB:**
     * Ejecutar los scripts de estructura de la carpeta `02_Implementacion_SQL`.
